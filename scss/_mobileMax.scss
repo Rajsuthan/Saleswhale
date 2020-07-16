@@ -150,8 +150,8 @@
 
   // Section 4 (Offices)
   .section4 {
-    margin: 4rem 0rem 0rem 0rem;
-    height: 120vh;
+    margin: 0rem 0rem 0rem 0rem;
+    padding-bottom: 75px !important;
 
     h1 {
       font-size: 44px;
@@ -192,11 +192,9 @@
 
   // Section 5 (Our Investors)
   .section5 {
-    height: 150vh;
-
     h1 {
       font-size: 44px;
-      margin: 5rem auto 0rem auto;
+      margin: 0rem auto 0rem auto;
     }
 
     p {
@@ -220,8 +218,6 @@
 
   // Request Demo
   .section6 {
-    height: 80vh;
-
     h1 {
       font-size: 42px;
       margin: 1.5rem auto 0rem auto;
@@ -254,7 +250,6 @@
     }
 
     position: relative;
-    height: 105vh;
     margin: 0rem auto 0rem auto;
     background: $blue-background-light;
     padding: 3rem 0rem 0rem 0rem;

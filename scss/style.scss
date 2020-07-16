@@ -88,6 +88,8 @@ nav {
 .section2 {
   margin: 5rem 0rem 0rem 0rem;
   text-align: center;
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
   // background-color: $main-blue-light;
   // padding: 20px;
   // color: white !;
@@ -166,6 +168,8 @@ nav {
   // height: 10vh;
   margin: 5rem 0rem 0rem 0rem;
   text-align: center;
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
   // background-color: $main-blue-dark;
 
   h1 {
@@ -229,10 +233,9 @@ nav {
 
 .section4 {
   position: relative;
-  margin: 10rem 0rem 0rem 0rem;
   text-align: center;
-  height: 130vh;
-
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
   h1 {
     font-family: $primary-font;
     font-size: 50px;
@@ -320,8 +323,9 @@ nav {
 .section5 {
   margin: 0 auto;
   text-align: center;
-  height: 100vh;
   background-color: $blue-background-light;
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
 
   h1 {
     display: inline-block;
@@ -381,8 +385,8 @@ nav {
   text-align: center;
   // background-color: $pink-background-light;
   padding: 50px 20px;
-  height: 55vh;
-
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
   h1 {
     display: inline-block;
     font-family: $primary-font;
@@ -412,10 +416,11 @@ nav {
 
 // Footer
 footer {
-  height: 55vh;
   margin: 0rem auto 0rem auto;
   background: $blue-background-light;
   padding: 3rem 0rem 0rem 0rem;
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
 
   img {
     width: 65%;
@@ -464,9 +469,10 @@ footer {
 
 // Section 7 (end-footer)
 .section7 {
+  min-height: 30vh !important;
+  padding: 50px 0px !important;
   position: relative;
   margin: 0rem auto 0rem auto;
-  height: 45vh;
 
   .footer-links {
     margin: 4rem auto 0rem auto;

@@ -12,3 +12,9 @@ body {
   width: 90%;
   margin: 0 auto;
 }
+
+.progress {
+  .line {
+    display: none !important;
+  }
+}
